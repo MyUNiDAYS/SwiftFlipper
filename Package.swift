@@ -16,8 +16,8 @@ let package = Package(
     ],
     dependencies: [
         .package(
-             url: "https://github.com/MyUNiDAYS/FlipperPluginUtils",
-             exact: Version("0.0.1")
+            url: "git@github.com:MyUNiDAYS/FlipperPluginUtils.git",
+            exact: Version("0.0.1")
         ),
     ],
     targets: [
