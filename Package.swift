@@ -15,8 +15,10 @@ let package = Package(
             targets: ["SwiftFlipper"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/chiragramani/FlipperPluginUtils",
-                 branch: "main"),
+        .package(
+             url: "https://github.com/MyUNiDAYS/FlipperPluginUtils",
+             exact: Version("0.0.1")
+        ),
     ],
     targets: [
         .target(
