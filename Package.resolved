@@ -3,10 +3,10 @@
     {
       "identity" : "flipperpluginutils",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/chiragramani/FlipperPluginUtils",
+      "location" : "git@github.com:MyUNiDAYS/FlipperPluginUtils.git",
       "state" : {
-        "branch" : "main",
-        "revision" : "f68ac6cc7954867b4ea9d9fa13be5995174c4929"
+        "revision" : "f68ac6cc7954867b4ea9d9fa13be5995174c4929",
+        "version" : "0.0.1"
       }
     }
   ],
